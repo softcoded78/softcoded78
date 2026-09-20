@@ -7,7 +7,6 @@ BSCS 2nd Year | Exploring CyberSec, Dev, Data
 **Git and GitHub Course - Technology Channel**
 - Issued: Sep 16, 2026
 - ID: 28eb6b15-8704-5c28-955b-dd7a272fc65
-- Certificate uploaded in this repo!
 
 #### 🌱 Currently Learning
 - [x] Git & GitHub - Certified ✅ (Sep 2026)
