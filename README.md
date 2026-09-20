@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Icel 👋
+BSCS 2nd Year | Exploring CyberSec, Dev, Data
 
-<!--
-**softcoded78/softcoded78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### 📜 Certification
+**Git and GitHub Course - Technology Channel**
+- Issued: Sep 16, 2026
+- ID: 28eb6b15-8704-5c28-955b-dd7a272fc65
+- Certificate uploaded in this repo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 Currently Learning
+- [x] Git & GitHub - Certified ✅ (Sep 2026)
+- [ ] Python - freeCodeCamp - In Progress
+- [ ] Java OOP - freeCodeCamp - In Progress
+- [ ] CSE Review - Planning
+
+#### 🛠️ Tech Stack
+`Java` `Python` `Git` `GitHub`
+
