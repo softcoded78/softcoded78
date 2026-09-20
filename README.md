@@ -1,5 +1,5 @@
 ### Hi, I'm Icel 👋
-BSCS 2nd Year | Exploring CyberSec, Dev, Data
+BSCS Student | Exploring CyberSec, Dev, Data
 
 ---
 
